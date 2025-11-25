@@ -1,3 +1,6 @@
+                                                     cricket scoreboard
+
+
 PROJECT DESCRIPTION
 
 The Cricket Scoreboard System is a C console program that records and displays a team’s batting performance. Users enter the team name, number of players, and each player’s batting data (runs, balls, fours, sixes, and strike rate). The system uses structures to represent players and the team, storing multiple players in an array. Strike rate is computed using **(runs / balls) × 100**, and total overs are derived from total balls ÷ 6. After processing all inputs, the program automatically calculates team totals and presents a neatly formatted scoreboard. The project demonstrates structured programming concepts in C, such as user input handling, loops, arithmetic operations, and string manipulation in a real-world sports context.
